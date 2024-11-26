@@ -1,0 +1,13 @@
+{
+  "clothes": {
+    "name": "One Life Graphic T-name",
+    "rating": 4.5,
+    "price": 300,
+    "discounted_price": 260,
+    "discount_percentage": 40,
+    "description": "A timeless classic, the Denim Jacket is perfect for layering in any season. Made from high-quality denim with a relaxed fit and adjustable waist.",
+    "colors": ["#4f4631", "#314f41", "#31344f"],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "quantity_in_stock": 120
+  }
+}
